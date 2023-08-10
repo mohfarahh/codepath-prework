@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/DSXxclT.mp4 title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 file:///private/var/folders/1z/n54tg96n2h70qvt115dfcv700000gn/T/202e9d7a1eb3aa411eb0ad60a91b1f7d/Kapture%202023-08-09%20at%2023.37.47.gif
 
